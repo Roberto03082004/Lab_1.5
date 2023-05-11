@@ -61,15 +61,15 @@ public class Controller {
     // Beginning of yourInfoHeader() method
     public static void yourInfoHeader(){
         System.out.println("================================");
-        System.out.println("PROGRAMMER:  " + "Replace Text");
-        System.out.println("PANTHER ID:  " + "Replace Text");
+        System.out.println("PROGRAMMER:  " + "Roberto Callejas");
+        System.out.println("PANTHER ID:  " + "6360177");
         System.out.println();
         System.out.println("CLASS \t\t COP2210 ");
-        System.out.println("SECTION: \t " + "Replace Text");
-        System.out.println("SEMESTER: \t " + "Replace Text");
-        System.out.println("CLASSTIME: \t " + "Replace Text");
+        System.out.println("SECTION: \t " + "U02C");
+        System.out.println("SEMESTER: \t " + "Summer 2023");
+        System.out.println("CLASSTIME: \t " + "10:00 AM - 12:50 PM");
         System.out.println();
-        System.out.println("Assignment:  " + "Replace Text");
+        System.out.println("Assignment:  " + "Lab 1.5");
         System.out.println();
         System.out.println("CERTIFICATION: \nI understand FIU's academic policies and i certify");
         System.out.println("that this work is my own and that none of it is the");
